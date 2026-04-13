@@ -73,11 +73,12 @@ or file damage begins.
 
 ## Project Structure
 
-EarlyGuard/ │ ├── app.py\
-├── train_model.py\
-├── generate_sample_data.py\
-│ ├── dataset/\
-├── models/
+EarlyGuard/
+- app.py  
+- train_model.py  
+- generate_sample_data.py  
+- dataset/  
+- models/  
 
 ---
 
