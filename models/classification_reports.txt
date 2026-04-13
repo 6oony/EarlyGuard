@@ -1,0 +1,44 @@
+=== logistic_regression ===
+              precision    recall  f1-score   support
+
+      Benign       0.84      1.00      0.91        16
+  Ransomware       1.00      0.81      0.90        16
+
+    accuracy                           0.91        32
+   macro avg       0.92      0.91      0.91        32
+weighted avg       0.92      0.91      0.91        32
+
+
+=== naive_bayes ===
+              precision    recall  f1-score   support
+
+      Benign       0.73      1.00      0.84        16
+  Ransomware       1.00      0.62      0.77        16
+
+    accuracy                           0.81        32
+   macro avg       0.86      0.81      0.81        32
+weighted avg       0.86      0.81      0.81        32
+
+
+=== svm ===
+              precision    recall  f1-score   support
+
+      Benign       0.84      1.00      0.91        16
+  Ransomware       1.00      0.81      0.90        16
+
+    accuracy                           0.91        32
+   macro avg       0.92      0.91      0.91        32
+weighted avg       0.92      0.91      0.91        32
+
+
+=== random_forest ===
+              precision    recall  f1-score   support
+
+      Benign       0.76      1.00      0.86        16
+  Ransomware       1.00      0.69      0.81        16
+
+    accuracy                           0.84        32
+   macro avg       0.88      0.84      0.84        32
+weighted avg       0.88      0.84      0.84        32
+
+
